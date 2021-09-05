@@ -1,0 +1,1 @@
+python automate_django.py run_dev --local-scheduler --cfg=luigi2.cfg
